@@ -1,7 +1,7 @@
 semana = input("Que semana toca? Escribe el numero: ")
 
-nrsp1 = 1
-nrsp = 1
+nrsp1 = 2
+nrsp = 2
 
 
 ##READ FILE AND MODIFY LINES
